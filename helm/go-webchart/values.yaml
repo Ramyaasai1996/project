@@ -4,4 +4,4 @@ image:
   repository: ramyaasai1996/go-web
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "10644943096"
